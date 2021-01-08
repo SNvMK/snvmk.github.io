@@ -1,4 +1,7 @@
-# SNVMDB - database tool by SNVMK | [Homepage](https://snvmk.github.io)
+---
+title: "SNVMK`s Own Page"
+---
+## SNVMDB - database tool by SNVMK 
 
 ## What it is?
 
