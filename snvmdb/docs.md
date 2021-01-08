@@ -51,4 +51,4 @@ Get key, and return it.
 
 Return all keys in table.
 
-[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=2&text=t4)](https://nick-name.ru/nickname/id1556381/)
+[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=23&text=t4)](https://nick-name.ru/nickname/id1556381/)

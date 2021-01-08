@@ -78,7 +78,7 @@ Show all tables in database and items in table
 
 ## Are there docs?
 
-Yeah! You can read docs on [this page!](https://docs.snvmk.tk "SNVMDB Docs")
+Yeah! You can read docs on [this page!](https://snvmk.tk/snvmdb/snvmdb.html "SNVMDB Docs")
 
 ## Where can I contribute to this project?
 
@@ -86,4 +86,4 @@ You can support and update this project at [GitHub repo](https://github.com/SNVM
 
 ---
 
-[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=2&text=t4)](https://nick-name.ru/nickname/id1556381/)
+[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=23&text=t4)](https://nick-name.ru/nickname/id1556381/)
