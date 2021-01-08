@@ -12,10 +12,10 @@ You are on **SNVMK**`s homepage. You can find my projects and info about me!
 
 [Simplest databases management tool.](https://snvmk.tk/snvmdb "Link to quick overview")
 
-### More coming soon
-
-[Check out here!](https://github.com/SNVMK "My github page!")
-
 ---
 
-#### SNVMK 2020
+#### SNVMK
+
+<a href="https://nick-name.ru/nickname/id1556381/">
+    <img src="https://nick-name.ru/img.php?nick=SNVMK&sert=2&text=t4" alt="Никнейм SNVMK зарегистрирован!" border="0" />
+</a>
