@@ -1,4 +1,8 @@
-# SNVMK`s homepage
+---
+title: "Index"
+---
+
+## SNVMK`s homepage
 
 ---
 
@@ -14,8 +18,4 @@ You are on **SNVMK**`s homepage. You can find my projects and info about me!
 
 ---
 
-#### SNVMK
-
-<a href="https://nick-name.ru/nickname/id1556381/">
-    <img src="https://nick-name.ru/img.php?nick=SNVMK&sert=2&text=t4" alt="Никнейм SNVMK зарегистрирован!" border="0" />
-</a>
+[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=2&text=t4)](https://nick-name.ru/nickname/id1556381/)

@@ -1,7 +1,9 @@
 ---
-title: "SNVMK`s Own Page"
+title: "SNVMDB"
 ---
-## SNVMDB - database tool by SNVMK 
+## SNVMDB - database tool by SNVMK
+
+---
 
 ## What it is?
 
@@ -87,4 +89,4 @@ You can support and update this project at [GitHub repo](https://github.com/SNVM
 
 ---
 
-#### SNVMK 2020
+[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=2&text=t4)](https://nick-name.ru/nickname/id1556381/)
