@@ -2,10 +2,6 @@
 title: "Index"
 ---
 
-## SNVMK`s homepage
-
----
-
 ## Where am I?
 
 You are on **SNVMK**`s homepage. You can find my projects and info about me!
