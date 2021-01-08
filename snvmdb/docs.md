@@ -2,8 +2,6 @@
 title: "SNVMDB Docs"
 ---
 
-## Full SNVMDB docs
-
 ## ***class* Database(*file*: str)**
 
 Creates or loads database file, which name given in *file* argument
@@ -49,7 +47,7 @@ Delete key from table.
 
 Get key, and return it.
 
-### ***def* show()**
+### ***def* shоw()**
 
 Return all keys in table.
 

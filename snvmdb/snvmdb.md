@@ -1,9 +1,6 @@
 ---
 title: "SNVMDB"
 ---
-## SNVMDB - database tool by SNVMK
-
----
 
 ## What it is?
 
