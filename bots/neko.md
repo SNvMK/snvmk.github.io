@@ -4,3 +4,5 @@ permalink: /bots/neko
 ---
 
 ## Description coming soon
+
+{% include footer.md %}

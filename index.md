@@ -26,3 +26,5 @@ You are on **SNVMK**`s homepage. You can find my projects and info about me!
 [{{ post.title }}]({{post.url}})
 
 {% endfor %}
+
+{% include footer.md %}

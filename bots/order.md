@@ -13,3 +13,5 @@ My services:
 - Hosting
 - Slash Commands
 - Give you bot owning
+
+{% include footer.md %}
