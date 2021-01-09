@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 name: SNVMK
 description: SNVMK`s Own Page In Internet
+avatar: https://cdn.discordapp.com/avatars/487845696100368384/90b447689f51347825c88ef23e3a80e1.png?size=512
 defaults:
   -
     scope:
