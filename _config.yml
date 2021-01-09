@@ -7,3 +7,4 @@ defaults:
       path: "_posts"
     values:
       author: SNVMK
+      layout: default
