@@ -4,7 +4,7 @@ description: SNVMK`s Own Page In Internet
 defaults:
   -
     scope:
-      path: ""
+      path: "_posts"
     values:
       author: SNVMK
       permalink: /blog/:title/
