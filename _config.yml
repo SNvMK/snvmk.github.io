@@ -7,3 +7,4 @@ defaults:
       path: ""
     values:
       author: SNVMK
+      permalink: /blog/:title/
