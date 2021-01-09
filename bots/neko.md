@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "NekoBot"
 permalink: /bots/neko
 ---

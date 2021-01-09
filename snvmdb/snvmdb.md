@@ -79,7 +79,7 @@ Show all tables in database and items in table
 
 ## Are there docs?
 
-Yeah! You can read docs on [this page!](https://snvmk.tk/snvmdb/snvmdb.html "SNVMDB Docs")
+Yeah! You can read docs on [this page!](https://snvmk.tk/snvmdb/docs "SNVMDB Docs")
 
 ## Where can I contribute to this project?
 

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Order a Bot!"
 permalink: /bots/
 ---
