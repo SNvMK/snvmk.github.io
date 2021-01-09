@@ -4,6 +4,6 @@ description: SNVMK`s Own Page In Internet
 defaults:
   -
     scope:
-      path: "_posts/"
+      path: ""
     values:
       author: SNVMK
