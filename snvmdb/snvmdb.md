@@ -84,6 +84,4 @@ Yeah! You can read docs on [this page!](https://snvmk.tk/snvmdb/snvmdb.html "SNV
 
 You can support and update this project at [GitHub repo](https://github.com/SNVMK/snvmdb)
 
----
-
-[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=23&text=t4)](https://nick-name.ru/nickname/id1556381/)
+{% include footer.md %}

@@ -12,6 +12,10 @@ You are on **SNVMK**`s homepage. You can find my projects and info about me!
 
 [Simplest databases management tool.](https://snvmk.tk/snvmdb/snvmdb.html "Link to quick overview")
 
----
+### Posts
 
-[![Foo](https://nick-name.ru/img.php?nick=SNVMK&sert=23&text=t4)](https://nick-name.ru/nickname/id1556381/)
+{% for post in site.posts %}
+
+[{{ post.title }}]({{post.url}})
+
+{% include footer.md %}
