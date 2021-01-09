@@ -1,3 +1,9 @@
 theme: jekyll-theme-hacker
 name: SNVMK
 description: SNVMK`s Own Page In Internet
+defaults:
+  -
+    scope:
+      path: "_posts/"
+    values:
+      author: SNVMK
