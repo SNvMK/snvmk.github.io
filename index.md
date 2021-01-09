@@ -12,7 +12,7 @@ You are on **SNVMK**`s homepage. You can find my projects and info about me!
 
 [Simplest databases management tool.](https://snvmk.tk/snvmdb/snvmdb.html "Link to quick overview")
 
-### Posts
+## Posts
 
 {% for post in site.posts %}
 
