@@ -1,5 +1,6 @@
 ---
 title: "SNVMDB"
+permalink: /snvmdb
 ---
 
 ## What it is?
