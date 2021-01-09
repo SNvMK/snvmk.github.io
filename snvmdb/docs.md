@@ -1,6 +1,6 @@
 ---
 title: "SNVMDB Docs"
-permalink: /snvmdb/docs
+permalink: /snvmdb/docs/
 ---
 
 ## ***class* Database(*file*: str)**
