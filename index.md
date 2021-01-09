@@ -16,7 +16,7 @@ You are on **SNVMK**`s homepage. You can find my projects and info about me!
 
 {% for post in site.posts %}
 
-[{{ post.title }}]({{post.url}})
+[{{ post.title }}]({{post.permalink}})
 
 {% endfor %}
 
