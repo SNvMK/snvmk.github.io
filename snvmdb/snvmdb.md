@@ -3,7 +3,7 @@ title: "SNVMDB"
 permalink: /snvmdb/
 ---
 
-## What it is?
+## SNVMDB
 
 SNVMDB is a simplest and easiest database management tool for python.
 It is use JSON as databases format

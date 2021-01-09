@@ -3,6 +3,8 @@ title: "SNVMDB Docs"
 permalink: /snvmdb/docs/
 ---
 
+## SNVMDB Docs
+
 ## ***class* Database(*file*: str)**
 
 Creates or loads database file, which name given in *file* argument
