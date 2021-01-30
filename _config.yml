@@ -2,8 +2,8 @@ theme: jekyll-theme-hacker
 author: SNVMK
 description: Страница SNVMK
 avatar: https://cdn.discordapp.com/avatars/487845696100368384/90b447689f51347825c88ef23e3a80e1.png?size=512
-navbar-links:
-  Discord-сервер: "https://discord.gg/sa9zx5xJdE"
+# navbar-links:
+#   Discord-сервер: "https://discord.gg/sa9zx5xJdE"
 social-network-links:
   email: "sidzahroman@gmail.com"
   github: SNVMK
@@ -12,7 +12,7 @@ share-links-active:
   facebook: true
   vk: true
 #disqus: "@snvmk"
-permalink: /:category/:title/
+#permalink: /:category/:title/
 # defaults:
 #   -
 #     scope:
