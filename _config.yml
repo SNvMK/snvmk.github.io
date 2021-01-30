@@ -1,10 +1,29 @@
 theme: jekyll-theme-hacker
-name: SNVMK
-description: SNVMK`s Own Page In Internet
+author: SNVMK
+description: Страница SNVMK
 avatar: https://cdn.discordapp.com/avatars/487845696100368384/90b447689f51347825c88ef23e3a80e1.png?size=512
+navbar-links:
+  Discord-сервер: "https://discord.gg/sa9zx5xJdE"
+social-network-links:
+  email: "sidzahroman@gmail.com"
+  github: SNVMK
+share-links-active:
+  twitter: true
+  facebook: true
+  vk: true
+disqus: "@snvmk"
+permalink: /:category/:title/
 defaults:
   -
     scope:
-      path: "_posts"
+      path: ""
+      type: "posts"
     values:
-      author: SNVMK
+      layout: "post"
+      comments: true
+      social-sharing: true
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "page"

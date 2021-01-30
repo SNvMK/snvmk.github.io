@@ -1,30 +1,15 @@
 ---
-layout: default
-title: "Index"
+title: Главная
+gh-badge: star
 ---
 
-## Where am I?
+# Добро пожаловать на сайт СНВМК!
 
-You are on **SNVMK**`s homepage. You can find my projects and info about me!
+Вы находитесь на сайте СНВМК - ~~тупого школоло~~ кулхацкера сайтов и ботов в Discord.
 
-## Projects
-
-### SNVMDB
-
-[Simplest databases management tool.](https://snvmk.tk/snvmdb/ "Link to quick overview")
-
-### Discord Bots
-
-[Order a bot](https://snvmk.tk/bots/)
-[SlashBot](https://snvmk.tk/bots/slash)
-[NekoBot](https://snvmk.tk/bots/neko)
-
-## Posts
+# Посты
 
 {% for post in site.posts %}
-
-[{{ post.title }}]({{post.url}})
-
+## {{ post.title }}
+{{ post.subtitle }}
 {% endfor %}
-
-{% include footer.md %}
