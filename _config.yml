@@ -2,17 +2,6 @@ theme: jekyll-theme-hacker
 title: SNVMK
 author: SNVMK
 description: Страница SNVMK
-avatar: https://cdn.discordapp.com/avatars/487845696100368384/90b447689f51347825c88ef23e3a80e1.png?size=512
-navbar-links:
-  Discord-сервер: "https://discord.gg/sa9zx5xJdE"
-navbar-img: https://nick-name.ru/img.php?nick=SNVMK&sert=23&text=t0
-social-network-links:
-  email: "sidzahroman@gmail.com"
-  github: SNVMK
-share-links-active:
-  twitter: true
-  facebook: true
-  vk: true
 permalink: /:categories/:title
 defaults:
   -
@@ -21,8 +10,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
-      social-sharing: true
 show_downloads: true
 github:
   zip_url: /snvmdb.zip
