@@ -13,7 +13,7 @@ share-links-active:
   twitter: true
   facebook: true
   vk: true
-disqus: "@snvmk"
+disqus: "snvmk"
 permalink: /:categories/:title
 defaults:
   -
@@ -24,3 +24,5 @@ defaults:
       layout: "post"
       comments: true
       social-sharing: true
+github:
+  is_project_page: false
