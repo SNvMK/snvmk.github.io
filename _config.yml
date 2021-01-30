@@ -13,7 +13,7 @@ share-links-active:
   twitter: true
   facebook: true
   vk: true
-disqus: "@snvmk"
+# disqus: "@snvmk"
 # permalink: /:category/:title/
 defaults:
   -
