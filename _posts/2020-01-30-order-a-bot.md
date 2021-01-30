@@ -4,6 +4,4 @@ subtitle: Вы можете заказать у меня создание Discor
 category: discord
 ---
 
-# Закажите бота!
-
 ...content coming soon...
