@@ -10,6 +10,6 @@ gh-badge: star
 # Посты
 
 {% for post in site.posts %}
-## {{ post.title }}
+## [{{ post.title }}]({{ post.url }})
 {{ post.subtitle }}
 {% endfor %}
