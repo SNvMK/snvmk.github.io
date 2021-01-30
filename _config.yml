@@ -24,5 +24,7 @@ defaults:
       layout: "post"
       comments: true
       social-sharing: true
+show_downloads: true
 github:
-  is_project_page: false
+  zip_url: /snvmdb.zip
+  tar_url: /snvmdb.tar.gz
