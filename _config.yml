@@ -13,8 +13,8 @@ share-links-active:
   twitter: true
   facebook: true
   vk: true
-# disqus: "@snvmk"
-# permalink: /:category/:title/
+disqus: "@snvmk"
+permalink: /:categories/:title
 defaults:
   -
     scope:
@@ -24,8 +24,3 @@ defaults:
       layout: "post"
       comments: true
       social-sharing: true
-  - 
-    scope:
-      path: ""
-    values:
-      layout: "default"
