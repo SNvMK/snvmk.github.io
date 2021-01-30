@@ -16,3 +16,4 @@ show_downloads: true
 github:
   zip_url: /snvmdb.zip
   tar_url: /snvmdb.tar.gz
+lang: ru-RU
