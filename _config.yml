@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 title: SNVMK
 author: SNVMK
 description: Страница SNVMK
@@ -13,7 +13,6 @@ share-links-active:
   twitter: true
   facebook: true
   vk: true
-disqus: "snvmk"
 permalink: /:categories/:title
 defaults:
   -
