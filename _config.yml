@@ -13,17 +13,17 @@ share-links-active:
   vk: true
 #disqus: "@snvmk"
 permalink: /:category/:title/
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      social-sharing: true
-  - 
-    scope:
-      path: ""
-    values:
-      layout: "page"
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       comments: true
+#       social-sharing: true
+#   - 
+#     scope:
+#       path: ""
+#     values:
+#       layout: "page"
