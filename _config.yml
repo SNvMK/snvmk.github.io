@@ -1,4 +1,6 @@
-remote_theme: benbalter/retlab
+theme: minima
+minima:
+  skin: dark
 title: SNVMK
 description: Страница SNVMK
 email: sidzahroman@gmail.com
