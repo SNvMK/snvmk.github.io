@@ -12,6 +12,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "page"
 show_downloads: true
 github:
   zip_url: /snvmdb.zip
