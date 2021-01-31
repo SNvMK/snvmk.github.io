@@ -1,9 +1,9 @@
 theme: jekyll-theme-hacker
 title: SNVMK
 description: Страница SNVMK
-email: sidzahroman@gmail.com
-github-username: SNvMK
-author: SNVMK
+author:
+    name: SNVMK
+    email: sidzahroman@gmail.com
 permalink: /:categories/:title
 defaults:
   -
