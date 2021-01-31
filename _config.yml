@@ -23,7 +23,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-      permalink: /:title
 disqus:
   shortname: snvmk
 show_downloads: true
