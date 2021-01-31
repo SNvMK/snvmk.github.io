@@ -1,4 +1,4 @@
-remote-theme: andrewhwanpark/dark-poole
+remote-theme: streetturtle/jekyll-clean-dark
 title: SNVMK
 description: Страница SNVMK
 email: sidzahroman@gmail.com
@@ -16,7 +16,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "page"
+      layout: "default"
 show_downloads: true
 github:
   zip_url: /snvmdb.zip
