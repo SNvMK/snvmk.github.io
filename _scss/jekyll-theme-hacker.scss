@@ -110,7 +110,7 @@ header {
 
   width: 100%;
 
-  border-top: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed $conifer; //header;
 
   padding: 20px 0;
 
@@ -124,7 +124,7 @@ footer {
 
   width: 100%;
 
-  border-bottom: 1px dashed $conifer; //header;
+  border-top: 1px dashed $conifer; //header;
 
   padding: 20px 0;
 
