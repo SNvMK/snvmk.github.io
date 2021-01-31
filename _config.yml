@@ -1,12 +1,15 @@
 theme: minima
 minima:
   skin: dark
-title: SNVMK
-description: Страница SNVMK
-email: sidzahroman@gmail.com
-github-username: SNvMK
-author: SNVMK
-permalink: /:categories/:title
+  social_links:
+    github: SNvMK
+    telegram: SNVMK
+title: Страница СНВМК
+author:
+  name: SNVMK
+  email: sidzahroman@gmail.com
+header_pages:
+  - https://discord.gg/n3xr8VbGw8
 defaults:
   -
     scope:
@@ -14,11 +17,15 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: /:categories/:title
   - 
     scope:
       path: ""
     values:
       layout: "default"
+      permalink: /:title
+disqus:
+  shortname: snvmk
 show_downloads: true
 github:
   zip_url: /snvmdb.zip
